@@ -41,7 +41,7 @@
 
 ### 🖼️ Featured Project
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=Emoscope&theme=radical)](https://github.com/http-idrissi-gh/Emoscope)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=http-idrissi-gh&repo=Emoscope&theme=radical)](https://github.com/http-idrissi-gh/Emoscope)
 
 ---
 
