@@ -65,5 +65,5 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="Keep Learning" width="300" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXg1bjhjZHFmOHVncWFqaXBmOTc5c25wMmFrMncyZ3k3OWsxandwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9C25UNTwfZuk85WP/giphy.gif" alt="Keep Learning" width="300" />
 </div>
