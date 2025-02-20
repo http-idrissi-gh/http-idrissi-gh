@@ -58,9 +58,9 @@
 
 ---
 
-### 🎉 Fun Fact
+### 🎉 Hobbies
 
-🌍 I'm a football enthusiast and an amateur chef 🍳 who loves experimenting with flavors from Moroccan cuisine.
+I'm a football enthusiast and an amateur chef 🍳 who loves experimenting with flavors from Moroccan cuisine.
 
 ---
 
