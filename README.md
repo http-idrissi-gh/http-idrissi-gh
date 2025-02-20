@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Mohamed!
 
-🎓 **Master's Student in Applied Mathematics and Statistics**  
-📍 Currently pursuing a Data Science and Artificial Intelligence track @ University of Rennes 2, France.
+🎓 **Master's Student in Applied Mathematics and Statistics, Data Science and Artificial Intelligence track @ University of Rennes 2.**
 
 ---
 
@@ -9,9 +8,9 @@
 
 - 🌟 Passionate about **Machine Learning**, **Data Science**, and **Green Energies**.
 - 🛠️ Skilled in Python, R & SQL with hands-on experience in:
-  - Implementing machine learning algorithms (e.g., k-NN, PCA).
-  - Data visualization and analytics.
+  - Implementing ML algorithms (regression, neural networks, trees, PCA).
   - Building predictive models for real-world problems.
+  - Data visualization and analytics.
 
 - 🔬 My latest project: **Emoscope**, a CNN-based project to recognize facial emotions.  
 - 📊 Completed 2 internships @ **Petalens** as a Data Scientist/Engineer and looking forward to new challenges in **Data Science/AI**.
