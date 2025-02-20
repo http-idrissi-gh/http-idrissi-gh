@@ -34,7 +34,7 @@
 
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=http-idrissi-gh&show_icons=true&theme=radical" alt="GitHub stats" />
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=http-idrissi-gh&theme=radical&hide_border=true" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=http-idrissi-gh&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
