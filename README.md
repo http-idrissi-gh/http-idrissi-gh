@@ -13,7 +13,7 @@
   - Data visualization and analytics.
 
 - 🔬 My latest project: **Emoscope**, a CNN-based project to recognize facial emotions.  
-- 📊 Completed 2 internships @ **Petalens** as a Data Scientist/Engineer and looking forward to new challenges in **Data Science/AI**.
+- 📊 Completed an internship @ **Petalens** as a Data Engineer and looking forward to new challenges in **Data Science/AI**.
 
 ---
 
